@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IBASEmployeeService", "IBASEmployeeService.csproj", "{F13015EA-71D1-4DB3-BDCE-565903A87D94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F13015EA-71D1-4DB3-BDCE-565903A87D94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F13015EA-71D1-4DB3-BDCE-565903A87D94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F13015EA-71D1-4DB3-BDCE-565903A87D94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F13015EA-71D1-4DB3-BDCE-565903A87D94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9DD7CD0-F764-4252-AF7A-5FCCB2524397}
+	EndGlobalSection
+EndGlobal
